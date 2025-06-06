@@ -1,12 +1,3 @@
-<!--
-README.md for Samuel Villarreal’s GitHub Profile
-This file introduces Samuel, outlines his background, and showcases three coding projects.
--->
-
-<!-- ========================= -->
-<!-- ===== Banner & Info ==== -->
-<!-- ========================= -->
-
 <p align="center">
   <img src="https://img.shields.io/badge/Samuel%20Villarreal-Data%20Science-blue?style=flat-square&logo=github" alt="Samuel’s GitHub Banner" />
 </p>
