@@ -80,9 +80,9 @@ Created a production-ready pipeline to evaluate real-world banking loan applicat
 <span style="color: #9e9e9e;">*[Project Link](https://github.com/samuelvy1100/Hotel-Reservation-Cancellation-Classifier)*</span>
 
 **Overview**:
-This machine learning pipeline helps identify potential hotel reservation cancellations. Interactive, no-code classification tool in Orange for exploratory data analysis and model evaluation. 
+This machine learning pipeline helps identify potential hotel reservation cancellations. Interactive visual classification tool in Orange Data Mining software for exploratory data analysis and model evaluation. 
 
-- 🧱 Used Random Forest with cross-validation achieving ~89% accuracy and AUC of 0.92.
+- 🧱 Used Random Forest with cross-validation achieving AUC score of 0.939 and 0.874 for classifiaction accuracy.
 - 📈 Visualized feature importance and ROC curves interactively for stakeholder use.
 - 🎓 Designed as a prototype for teaching ML fundamentals without coding.
 
