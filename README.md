@@ -6,7 +6,7 @@
   <strong>👋 Hello, I’m Samuel Villarreal</strong>
 </p>
 <p align="center">
-  <em>Data Science & Analytics graduate student in A.I Concentration at Georgetown University • Passionate about predictive modeling, machine learning, and data-driven solutions</em>
+  <em>Data Science & Analytics graduate student in A.I. Concentration at Georgetown University • Passionate about predictive modeling, machine learning, and data-driven solutions</em>
 </p>
 
 ---
