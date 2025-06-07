@@ -14,9 +14,9 @@
 ### 📖 Table of Contents
 1. [About Me](#about-me)  
 2. [Projects](#projects)  
-   1. [Water Quality Classification](#1-water-quality-classification)  
+   1. [Mexico Water Quality Classification](#1-mexico-water-quality-classification)  
    2. [Loan Approval Prediction Pipeline](#2-loan-approval-prediction-pipeline)  
-   3. [Classification Workflow with Orange](#3-hotel-reservation-cancellation-classifier)  
+   3. [Hotel Reservation Cancellation Classifier](#3-hotel-reservation-cancellation-classifier)  
 
 ---
 
@@ -29,21 +29,15 @@ I am a graduate student specializing in Data Science and Analytics with a concen
   - B.B.A. in Accountancy with Minor in Information Systems, The University of Texas Rio Grande Valley, Edinburg TX (Dec 2024)  
     
 - 💼 **Professional Experience**:  
-  - **Tax Intern @ ADKF**: Prepared federal and state returns, reconciled ledgers, and ensured compliance with CCH Axcess. (June 2024 - August 2024)
-  - **Accounting Assistant @ UTRGV**: Managed budgets, generated financial dashboards using Power BI and Excel, and supported the Division of Strategic Enrollment. (September 2021 - May 2024) & (August 2024 - December 2024)
+  - **Tax Intern @ ADKF - San Antonio, TX - From June 2024 to August 2024**: Prepared federal and state tax returns for individuals and corporations. Modeled estimated tax payments to optimize client cash flow. Maintained accurate workpapers and upheld confidentiality standards.
+  - **Accounting Assistant @ The University of Texas Rio Grande Valley - Edinburg, TX - From September 2021 to May 2024 & August 2024 to December 2024**: Audited and reconciled transactions with full federal compliance. Streamlined reconciliation workflows using Excel and PeopleSoft, improving efficiency threefold.
 
 - 🛠 **Technical Skills**:  
   - **Languages**: Python, R, SQL, Java  
-  - **Data Tools**: pandas, NumPy, scikit-learn, Orange, Minitab, TensorFlow, Hugging Face Transformers  
+  - **Data Tools**: pandas, NumPy, scikit-learn, Orange, Minitab, TensorFlow, Hugging Face Transformers,  
   - **Visualization**: Matplotlib, Seaborn, Plotly  
   - **Deployment**: FastAPI, Streamlit  
-  - **Database/ERP**: Microsoft Excel, QuickBooks, Power BI, PeopleSoft, CCH Axcess  
-
-- 🌐 **Interests**:  
-  - Predictive Modeling & Machine Learning  
-  - Natural Language Processing & Deep Learning  
-  - Environmental & Financial Analytics  
-  - Marathon Training & Sports Science  
+  - **Database/ERP**: Microsoft Excel, QuickBooks, Power BI, PeopleSoft, Access 
 
 ---
 
@@ -51,7 +45,7 @@ I am a graduate student specializing in Data Science and Analytics with a concen
 
 ---
 
-### 1. Water Quality Classification  
+### 1. Mexico Water Quality Classification  
 <span style="color: #9e9e9e;">*[Project Link](https://github.com/samuelvy1100/Mexico-Water-Quality-Classification)*</span>
 
 **Overview**:
