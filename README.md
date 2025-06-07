@@ -16,7 +16,8 @@
 2. [Projects](#projects)  
    1. [Mexico Water Quality Classification](#1-mexico-water-quality-classification)  
    2. [Loan Approval Prediction Pipeline](#2-loan-approval-prediction-pipeline)  
-   3. [Hotel Reservation Cancellation Classifier](#3-hotel-reservation-cancellation-classifier)  
+   3. [Hotel Reservation Cancellation Classifier](#3-hotel-reservation-cancellation-classifier)
+3. [Resume and Connect](#resume-and-connect)
 
 ---
 
@@ -87,6 +88,12 @@ This machine learning pipeline helps identify potential hotel reservation cancel
 
 **Featured Skills in Action**:
 `Orange`, `scikit-learn`, `AUC-ROC`, `Confusion Matrix`, `Model Evaluation`, `Data Visualization`
+
+---
+
+### Resume and Connect
+
+<a href="https://drive.google.com/file/d/1ZKo_As_YPak3tk_uO-QnIEq-eoj4cZqk/view?usp=share_link" target="_blank"> <img src="https://img.shields.io/badge/Resume-PDF-informational?style=flat-square&logo=adobeacrobatreader&logoColor=white&color=2f80ed" alt="Resume PDF" /> </a> &nbsp; <a href="www.linkedin.com/in/samuel-villarreal-b8482a237" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /> </a> </p>
 
 ---
 
