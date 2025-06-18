@@ -52,7 +52,7 @@ I am a graduate student specializing in Data Science and Analytics with a concen
 **Overview**:
 Developed a multi-class classification model to assess surface water safety across Mexico using physicochemical readings.
 
-- 🚰 Classified water into `Verde` 🟩, `Amarillo` 🟨, and `Rojo` 🟥 using Gradient Boosting with 5-fold CV.
+- 🚰 Classified water into `Verde` 🟩 (Safe), `Amarillo` 🟨 (Risk Warning), and `Rojo` 🟥 (Unsafe) using Gradient Boosting with 5-fold CV.
 - 🔬 Identified key contaminants like turbidity and nitrates driving pollution.
 - 📊 Delivered actionable insights for public health agencies and environmental engineers.
 
