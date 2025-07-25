@@ -93,7 +93,7 @@ This machine learning pipeline helps identify potential hotel reservation cancel
 
 ### Resume and Connect
 
-<a href="https://drive.google.com/file/d/1ZKo_As_YPak3tk_uO-QnIEq-eoj4cZqk/view?usp=share_link" target="_blank"> <img src="https://img.shields.io/badge/Resume-PDF-informational?style=flat-square&logo=adobeacrobatreader&logoColor=white&color=2f80ed" alt="Resume PDF" /> </a> &nbsp; <a href="https://www.linkedin.com/in/samuel-villarreal-b8482a237/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /> </a> </p>
+<a href="https://drive.google.com/file/d/1uY2lu54RWpAQDZKaejRRfdEa_EzcjfU3/view?usp=share_link" target="_blank"> <img src="https://img.shields.io/badge/Resume-PDF-informational?style=flat-square&logo=adobeacrobatreader&logoColor=white&color=2f80ed" alt="Resume PDF" /> </a> &nbsp; <a href="https://www.linkedin.com/in/samuel-villarreal-b8482a237/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /> </a> </p>
 
 ---
 
